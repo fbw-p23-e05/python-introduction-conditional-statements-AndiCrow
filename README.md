@@ -114,7 +114,7 @@ Well guessed!
 
 ### :heavy_plus_sign: Task 6 - Celsius to Fahrenheit conversion
 
-Your task is to write a Python program to convert temperatures to and from Celsius, Cahrenheit.
+Your task is to write a Python program to convert temperatures to and from Celsius, Fahrenheit.
 
 In the centigrade scale, which is also called the Celsius scale, water freezes at 0 degrees and boils at 100 degrees.  
 In the Fahrenheit scale, water freezes at 32 degrees and boils at 212 degrees. 
